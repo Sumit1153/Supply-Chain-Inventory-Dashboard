@@ -1,0 +1,9 @@
+supplier_id,supplier_name,region,avg_lead_time_days
+S01,Apex Industrial,India,5
+S02,BlueLine Chemicals,India,7
+S03,Condor Packaging,China,18
+S04,Delta Components,Germany,14
+S05,EverGreen Supply,India,6
+S06,Fortis Materials,USA,21
+S07,GlobalTrade Co,China,16
+S08,Helix Polymers,Singapore,12

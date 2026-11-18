@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_cost,unit_price,avg_daily_demand,supplier_id,reorder_point,order_quantity
+P001,Raw Item 01,Raw Materials,78.7,110.46,21,S07,399,630
+P002,Packaging Item 02,Packaging,15.46,19.83,24,S08,360,720
+P003,Consumables Item 03,Consumables,32.83,50.07,24,S02,240,720
+P004,Spare Item 04,Spare Parts,145.57,200.85,13,S08,195,390
+P005,Finished Item 05,Finished Goods,221.65,340.89,25,S04,425,750
+P006,Raw Item 06,Raw Materials,51.36,74.17,36,S01,288,1080
+P007,Packaging Item 07,Packaging,17.41,25.61,13,S07,247,390
+P008,Consumables Item 08,Consumables,20.64,32.81,22,S08,330,660
+P009,Spare Item 09,Spare Parts,207.89,274.02,19,S04,323,570
+P010,Finished Item 10,Finished Goods,89.64,116.89,31,S06,744,930
+P011,Raw Item 11,Raw Materials,77.24,122.71,21,S03,441,630
+P012,Packaging Item 12,Packaging,10.56,14.94,33,S02,330,990
+P013,Consumables Item 13,Consumables,13.9,19.69,18,S02,180,540
+P014,Spare Item 14,Spare Parts,187.26,262.73,13,S07,247,390
+P015,Finished Item 15,Finished Goods,234.06,318.16,32,S07,608,960
+P016,Raw Item 16,Raw Materials,80.24,111.18,36,S03,756,1080
+P017,Packaging Item 17,Packaging,15.24,19.8,34,S02,340,1020
+P018,Consumables Item 18,Consumables,10.22,15.59,32,S06,768,960
+P019,Spare Item 19,Spare Parts,193.98,295.48,25,S04,425,750
+P020,Finished Item 20,Finished Goods,205.12,266.44,15,S01,120,450
+P021,Raw Item 21,Raw Materials,73.42,103.88,35,S05,315,1050
+P022,Packaging Item 22,Packaging,16.47,24.25,26,S05,234,780
+P023,Consumables Item 23,Consumables,26.78,36.32,27,S01,216,810
+P024,Spare Item 24,Spare Parts,142.98,189.46,16,S04,272,480
+P025,Finished Item 25,Finished Goods,267.75,356.61,34,S01,272,1020
+P026,Raw Item 26,Raw Materials,54.07,73.14,21,S06,504,630
+P027,Packaging Item 27,Packaging,13.36,20.37,39,S06,936,1170
+P028,Consumables Item 28,Consumables,22.19,34.06,18,S02,180,540
+P029,Spare Item 29,Spare Parts,64.32,82.43,32,S06,768,960
+P030,Finished Item 30,Finished Goods,181.61,237.26,36,S05,324,1080
+P031,Raw Item 31,Raw Materials,47.62,71.13,23,S04,391,690
+P032,Packaging Item 32,Packaging,10.72,14.53,29,S06,696,870
+P033,Consumables Item 33,Consumables,20.85,26.7,18,S01,144,540
+P034,Spare Item 34,Spare Parts,242.76,380.65,23,S06,552,690
+P035,Finished Item 35,Finished Goods,138.49,220.09,16,S07,304,480
+P036,Raw Item 36,Raw Materials,75.84,106.73,31,S03,651,930
+P037,Packaging Item 37,Packaging,6.45,10.1,12,S04,204,360
+P038,Consumables Item 38,Consumables,16.07,21.81,33,S05,297,990
+P039,Spare Item 39,Spare Parts,93.59,145.05,8,S07,152,240
+P040,Finished Item 40,Finished Goods,238.28,333.89,17,S06,408,510
